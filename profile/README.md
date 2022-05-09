@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 
-> *This is the GitHub Org for all tech and open source enthusiasts in [@UESTC](https://www.uestc.edu.cn).*
+***This is the GitHub Org for all tech and open source enthusiasts in [@UESTC](https://www.uestc.edu.cn).***
 
 ![Followers](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=blue&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Forgs%2Fuestcer)
 ![Public Members](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=blue&label=Public%20Members&query=%24.length&url=https%3A%2F%2Fapi.github.com%2Forgs%2Fuestcer%2Fpublic_members&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBhcmlhLWhpZGRlbj0idHJ1ZSIgcm9sZT0iaW1nIiBjbGFzcz0iaWNvbmlmeSBpY29uaWZ5LS1iaSIgd2lkdGg9IjFlbSIgaGVpZ2h0PSIxZW0iIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIG1lZXQiIHZpZXdCb3g9IjAgMCAxNiAxNiI+PGcgZmlsbD0iI2Y1ZjVmNSI+PHBhdGggZD0iTTExIDZhMyAzIDAgMSAxLTYgMGEzIDMgMCAwIDEgNiAweiI+PC9wYXRoPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTAgOGE4IDggMCAxIDEgMTYgMEE4IDggMCAwIDEgMCA4em04LTdhNyA3IDAgMCAwLTUuNDY4IDExLjM3QzMuMjQyIDExLjIyNiA0LjgwNSAxMCA4IDEwczQuNzU3IDEuMjI1IDUuNDY4IDIuMzdBNyA3IDAgMCAwIDggMXoiPjwvcGF0aD48L2c+PC9zdmc+)
